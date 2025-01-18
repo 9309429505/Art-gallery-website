@@ -13,7 +13,8 @@ This is a responsive art portfolio website created using **HTML** and **CSS**. T
 
 ## How to Use
 1. **Clone the repository**:
-git clone https://github.com/9309429505/Art-gallery-website.git
+git clone https://github.com/shreyadesai123
+/Art-gallery-website.git
 
 markdown
 Copy
@@ -22,7 +23,8 @@ Edit
 
 ## Live Demo
 Check out the live version of the website here:  
-https://9309429505.github.io/Art-gallery-website/
+https://shreyadesai123
+.github.io/Art-gallery-website/
 
 ## Resources Used
 - **Google Material Icons:** Used for the search icon in the project.  
