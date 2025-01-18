@@ -23,8 +23,7 @@ Edit
 
 ## Live Demo
 Check out the live version of the website here:  
-https://shreyadesai123
-.github.io/Art-gallery-website/
+https://shreyadesai123.github.io/Art-gallery-website/
 
 ## Resources Used
 - **Google Material Icons:** Used for the search icon in the project.  
